@@ -43,6 +43,8 @@
   },
   "dependencies": {
     "core-js": "^3.33.3",
-    "npm": "^10.5.1"
+    "gitignore": "^0.6.0",
+    "url-loader": "^4.1.0",
+    "yarn": "^1.22.4"
   }
 }
